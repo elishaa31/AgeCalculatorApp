@@ -1,0 +1,14 @@
+C:\Users\elish\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.exe
+C:\Users\elish\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.deps.json
+C:\Users\elish\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.runtimeconfig.json
+C:\Users\elish\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.dll
+C:\Users\elish\AgeCalculatorApp\bin\Debug\net8.0\AgeCalculatorApp.pdb
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.AssemblyInfo.cs
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.dll
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\refint\AgeCalculatorApp.dll
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.pdb
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\AgeCalculatorApp.genruntimeconfig.cache
+C:\Users\elish\AgeCalculatorApp\obj\Debug\net8.0\ref\AgeCalculatorApp.dll
